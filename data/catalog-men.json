@@ -1,0 +1,650 @@
+[
+  {
+    "id": "men-001",
+    "sku": "M-001",
+    "nameAr": "تيشيرت كلاسيك 1",
+    "nameEn": "T-Shirt 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 115000,
+    "image": "assets/products/men-001.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-002",
+    "sku": "M-002",
+    "nameAr": "تيشيرت كلاسيك 2",
+    "nameEn": "T-Shirt 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 45000,
+    "image": "assets/products/men-002.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-003",
+    "sku": "M-003",
+    "nameAr": "تيشيرت كلاسيك 3",
+    "nameEn": "T-Shirt 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 35000,
+    "image": "assets/products/men-003.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-004",
+    "sku": "M-004",
+    "nameAr": "تيشيرت كلاسيك 4",
+    "nameEn": "T-Shirt 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 21000,
+    "image": "assets/products/men-004.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-005",
+    "sku": "M-005",
+    "nameAr": "تيشيرت كلاسيك 5",
+    "nameEn": "T-Shirt 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 18000,
+    "image": "assets/products/men-005.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-006",
+    "sku": "M-006",
+    "nameAr": "تيشيرت كلاسيك 6",
+    "nameEn": "T-Shirt 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 94000,
+    "image": "assets/products/men-006.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-007",
+    "sku": "M-007",
+    "nameAr": "قميص رسمي 1",
+    "nameEn": "Shirt 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 80000,
+    "image": "assets/products/men-007.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-008",
+    "sku": "M-008",
+    "nameAr": "قميص رسمي 2",
+    "nameEn": "Shirt 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 85000,
+    "image": "assets/products/men-008.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-009",
+    "sku": "M-009",
+    "nameAr": "قميص رسمي 3",
+    "nameEn": "Shirt 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 114000,
+    "image": "assets/products/men-009.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-010",
+    "sku": "M-010",
+    "nameAr": "قميص رسمي 4",
+    "nameEn": "Shirt 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 66000,
+    "image": "assets/products/men-010.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-011",
+    "sku": "M-011",
+    "nameAr": "قميص رسمي 5",
+    "nameEn": "Shirt 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 66000,
+    "image": "assets/products/men-011.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-012",
+    "sku": "M-012",
+    "nameAr": "قميص رسمي 6",
+    "nameEn": "Shirt 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 37000,
+    "image": "assets/products/men-012.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-013",
+    "sku": "M-013",
+    "nameAr": "جاكيت خفيف 1",
+    "nameEn": "Jacket 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 74000,
+    "image": "assets/products/men-013.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-014",
+    "sku": "M-014",
+    "nameAr": "جاكيت خفيف 2",
+    "nameEn": "Jacket 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 74000,
+    "image": "assets/products/men-014.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-015",
+    "sku": "M-015",
+    "nameAr": "جاكيت خفيف 3",
+    "nameEn": "Jacket 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 51000,
+    "image": "assets/products/men-015.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-016",
+    "sku": "M-016",
+    "nameAr": "جاكيت خفيف 4",
+    "nameEn": "Jacket 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 92000,
+    "image": "assets/products/men-016.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-017",
+    "sku": "M-017",
+    "nameAr": "جاكيت خفيف 5",
+    "nameEn": "Jacket 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 39000,
+    "image": "assets/products/men-017.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-018",
+    "sku": "M-018",
+    "nameAr": "جاكيت خفيف 6",
+    "nameEn": "Jacket 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 66000,
+    "image": "assets/products/men-018.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-019",
+    "sku": "M-019",
+    "nameAr": "بنطال جينز 1",
+    "nameEn": "Jeans 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 116000,
+    "image": "assets/products/men-019.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-020",
+    "sku": "M-020",
+    "nameAr": "بنطال جينز 2",
+    "nameEn": "Jeans 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 93000,
+    "image": "assets/products/men-020.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-021",
+    "sku": "M-021",
+    "nameAr": "بنطال جينز 3",
+    "nameEn": "Jeans 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 34000,
+    "image": "assets/products/men-021.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-022",
+    "sku": "M-022",
+    "nameAr": "بنطال جينز 4",
+    "nameEn": "Jeans 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 106000,
+    "image": "assets/products/men-022.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-023",
+    "sku": "M-023",
+    "nameAr": "بنطال جينز 5",
+    "nameEn": "Jeans 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 78000,
+    "image": "assets/products/men-023.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-024",
+    "sku": "M-024",
+    "nameAr": "بنطال جينز 6",
+    "nameEn": "Jeans 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 27000,
+    "image": "assets/products/men-024.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-025",
+    "sku": "M-025",
+    "nameAr": "هودي شتوي 1",
+    "nameEn": "Hoodie 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 76000,
+    "image": "assets/products/men-025.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-026",
+    "sku": "M-026",
+    "nameAr": "هودي شتوي 2",
+    "nameEn": "Hoodie 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 67000,
+    "image": "assets/products/men-026.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-027",
+    "sku": "M-027",
+    "nameAr": "هودي شتوي 3",
+    "nameEn": "Hoodie 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 31000,
+    "image": "assets/products/men-027.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-028",
+    "sku": "M-028",
+    "nameAr": "هودي شتوي 4",
+    "nameEn": "Hoodie 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 108000,
+    "image": "assets/products/men-028.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-029",
+    "sku": "M-029",
+    "nameAr": "هودي شتوي 5",
+    "nameEn": "Hoodie 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 120000,
+    "image": "assets/products/men-029.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-030",
+    "sku": "M-030",
+    "nameAr": "هودي شتوي 6",
+    "nameEn": "Hoodie 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 81000,
+    "image": "assets/products/men-030.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-031",
+    "sku": "M-031",
+    "nameAr": "بدلة رسمية 1",
+    "nameEn": "Suit 1",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 114000,
+    "image": "assets/products/men-031.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-032",
+    "sku": "M-032",
+    "nameAr": "بدلة رسمية 2",
+    "nameEn": "Suit 2",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 22000,
+    "image": "assets/products/men-032.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-033",
+    "sku": "M-033",
+    "nameAr": "بدلة رسمية 3",
+    "nameEn": "Suit 3",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 40000,
+    "image": "assets/products/men-033.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-034",
+    "sku": "M-034",
+    "nameAr": "بدلة رسمية 4",
+    "nameEn": "Suit 4",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 72000,
+    "image": "assets/products/men-034.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-035",
+    "sku": "M-035",
+    "nameAr": "بدلة رسمية 5",
+    "nameEn": "Suit 5",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 98000,
+    "image": "assets/products/men-035.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "men-036",
+    "sku": "M-036",
+    "nameAr": "بدلة رسمية 6",
+    "nameEn": "Suit 6",
+    "category": "men",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 89000,
+    "image": "assets/products/men-036.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  }
+]

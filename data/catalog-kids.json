@@ -1,0 +1,650 @@
+[
+  {
+    "id": "kids-001",
+    "sku": "K-001",
+    "nameAr": "تيشيرت أطفال 1",
+    "nameEn": "Kids Tee 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 39000,
+    "image": "assets/products/kids-001.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-002",
+    "sku": "K-002",
+    "nameAr": "تيشيرت أطفال 2",
+    "nameEn": "Kids Tee 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 107000,
+    "image": "assets/products/kids-002.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-003",
+    "sku": "K-003",
+    "nameAr": "تيشيرت أطفال 3",
+    "nameEn": "Kids Tee 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 97000,
+    "image": "assets/products/kids-003.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-004",
+    "sku": "K-004",
+    "nameAr": "تيشيرت أطفال 4",
+    "nameEn": "Kids Tee 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 42000,
+    "image": "assets/products/kids-004.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-005",
+    "sku": "K-005",
+    "nameAr": "تيشيرت أطفال 5",
+    "nameEn": "Kids Tee 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 59000,
+    "image": "assets/products/kids-005.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-006",
+    "sku": "K-006",
+    "nameAr": "تيشيرت أطفال 6",
+    "nameEn": "Kids Tee 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 22000,
+    "image": "assets/products/kids-006.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-007",
+    "sku": "K-007",
+    "nameAr": "فستان بناتي 1",
+    "nameEn": "Girl Dress 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 42000,
+    "image": "assets/products/kids-007.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-008",
+    "sku": "K-008",
+    "nameAr": "فستان بناتي 2",
+    "nameEn": "Girl Dress 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 18000,
+    "image": "assets/products/kids-008.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-009",
+    "sku": "K-009",
+    "nameAr": "فستان بناتي 3",
+    "nameEn": "Girl Dress 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 54000,
+    "image": "assets/products/kids-009.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-010",
+    "sku": "K-010",
+    "nameAr": "فستان بناتي 4",
+    "nameEn": "Girl Dress 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 49000,
+    "image": "assets/products/kids-010.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-011",
+    "sku": "K-011",
+    "nameAr": "فستان بناتي 5",
+    "nameEn": "Girl Dress 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 67000,
+    "image": "assets/products/kids-011.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-012",
+    "sku": "K-012",
+    "nameAr": "فستان بناتي 6",
+    "nameEn": "Girl Dress 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 118000,
+    "image": "assets/products/kids-012.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-013",
+    "sku": "K-013",
+    "nameAr": "هودي أطفال 1",
+    "nameEn": "Kids Hoodie 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 109000,
+    "image": "assets/products/kids-013.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-014",
+    "sku": "K-014",
+    "nameAr": "هودي أطفال 2",
+    "nameEn": "Kids Hoodie 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 70000,
+    "image": "assets/products/kids-014.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-015",
+    "sku": "K-015",
+    "nameAr": "هودي أطفال 3",
+    "nameEn": "Kids Hoodie 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 60000,
+    "image": "assets/products/kids-015.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-016",
+    "sku": "K-016",
+    "nameAr": "هودي أطفال 4",
+    "nameEn": "Kids Hoodie 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 31000,
+    "image": "assets/products/kids-016.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-017",
+    "sku": "K-017",
+    "nameAr": "هودي أطفال 5",
+    "nameEn": "Kids Hoodie 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 113000,
+    "image": "assets/products/kids-017.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-018",
+    "sku": "K-018",
+    "nameAr": "هودي أطفال 6",
+    "nameEn": "Kids Hoodie 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 48000,
+    "image": "assets/products/kids-018.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-019",
+    "sku": "K-019",
+    "nameAr": "بنطال مرن 1",
+    "nameEn": "Jogger 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 51000,
+    "image": "assets/products/kids-019.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-020",
+    "sku": "K-020",
+    "nameAr": "بنطال مرن 2",
+    "nameEn": "Jogger 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 54000,
+    "image": "assets/products/kids-020.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-021",
+    "sku": "K-021",
+    "nameAr": "بنطال مرن 3",
+    "nameEn": "Jogger 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 25000,
+    "image": "assets/products/kids-021.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-022",
+    "sku": "K-022",
+    "nameAr": "بنطال مرن 4",
+    "nameEn": "Jogger 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 26000,
+    "image": "assets/products/kids-022.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-023",
+    "sku": "K-023",
+    "nameAr": "بنطال مرن 5",
+    "nameEn": "Jogger 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 84000,
+    "image": "assets/products/kids-023.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-024",
+    "sku": "K-024",
+    "nameAr": "بنطال مرن 6",
+    "nameEn": "Jogger 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 93000,
+    "image": "assets/products/kids-024.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-025",
+    "sku": "K-025",
+    "nameAr": "بيجامة قطن 1",
+    "nameEn": "Pajama 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 31000,
+    "image": "assets/products/kids-025.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-026",
+    "sku": "K-026",
+    "nameAr": "بيجامة قطن 2",
+    "nameEn": "Pajama 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 95000,
+    "image": "assets/products/kids-026.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-027",
+    "sku": "K-027",
+    "nameAr": "بيجامة قطن 3",
+    "nameEn": "Pajama 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 25000,
+    "image": "assets/products/kids-027.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-028",
+    "sku": "K-028",
+    "nameAr": "بيجامة قطن 4",
+    "nameEn": "Pajama 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 118000,
+    "image": "assets/products/kids-028.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-029",
+    "sku": "K-029",
+    "nameAr": "بيجامة قطن 5",
+    "nameEn": "Pajama 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 64000,
+    "image": "assets/products/kids-029.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-030",
+    "sku": "K-030",
+    "nameAr": "بيجامة قطن 6",
+    "nameEn": "Pajama 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 28000,
+    "image": "assets/products/kids-030.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-031",
+    "sku": "K-031",
+    "nameAr": "زي مدرسي 1",
+    "nameEn": "School Set 1",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 118000,
+    "image": "assets/products/kids-031.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-032",
+    "sku": "K-032",
+    "nameAr": "زي مدرسي 2",
+    "nameEn": "School Set 2",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 30000,
+    "image": "assets/products/kids-032.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-033",
+    "sku": "K-033",
+    "nameAr": "زي مدرسي 3",
+    "nameEn": "School Set 3",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 73000,
+    "image": "assets/products/kids-033.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-034",
+    "sku": "K-034",
+    "nameAr": "زي مدرسي 4",
+    "nameEn": "School Set 4",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 72000,
+    "image": "assets/products/kids-034.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-035",
+    "sku": "K-035",
+    "nameAr": "زي مدرسي 5",
+    "nameEn": "School Set 5",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 28000,
+    "image": "assets/products/kids-035.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "kids-036",
+    "sku": "K-036",
+    "nameAr": "زي مدرسي 6",
+    "nameEn": "School Set 6",
+    "category": "kids",
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "priceIQD": 53000,
+    "image": "assets/products/kids-036.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  }
+]
