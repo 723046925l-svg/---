@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="640" viewBox="0 0 512 640">
+<rect width="512" height="640" rx="36" fill="#f6f7fb"/>
+<rect x="36" y="36" width="440" height="568" rx="24" fill="white" stroke="#e5e7eb"/>
+<text x="256" y="110" text-anchor="middle" fill="#111827" font-size="28" font-family="Arial">Pajama 5</text>
+<circle cx="256" cy="320" r="128" fill="#db2777" opacity="0.9"/>
+<text x="256" y="335" text-anchor="middle" fill="white" font-size="72" font-family="Arial">🛌</text>
+<text x="256" y="560" text-anchor="middle" fill="#6b7280" font-size="24" font-family="Arial">Virtual Catalog Item</text>
+</svg>

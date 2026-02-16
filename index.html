@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>غرفة القياس الافتراضية بالذكاء الاصطناعي</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1 id="title">غرفة القياس الافتراضية بالذكاء الاصطناعي</h1>
+    <button id="langToggle">EN</button>
+  </header>
+
+  <main>
+    <section class="notice" id="privacyNote">
+      ملاحظة مهمة: لن نقوم بحفظ صورك. المعالجة في المتصفح فقط مع دعم تشفير البيانات المؤقتة.
+    </section>
+
+    <section class="grid">
+      <div class="panel">
+        <h2 id="profileTitle">بيانات التجربة</h2>
+        <label id="segmentLabel">الفئة</label>
+        <select id="segment">
+          <option value="women">نساء</option>
+          <option value="men">رجال</option>
+          <option value="kids">أطفال</option>
+        </select>
+
+        <label id="heightLabel">الطول (سم)</label>
+        <input id="height" type="number" min="80" max="220" value="170" />
+
+        <label id="weightLabel">الوزن (كغ)</label>
+        <input id="weight" type="number" min="10" max="180" value="65" />
+
+        <label id="photoLabel">ارفع صورتك</label>
+        <input id="photoInput" type="file" accept="image/*" />
+
+        <button id="recommendBtn">اقتراح المقاس والتنسيق</button>
+        <div id="recommendation"></div>
+      </div>
+
+      <div class="panel">
+        <h2 id="catalogTitle">الكتالوج</h2>
+        <div id="catalog" class="catalog"></div>
+      </div>
+
+      <div class="panel">
+        <h2 id="tryonTitle">تجربة القياس</h2>
+        <div class="preview-wrap">
+          <img id="userPreview" alt="user" />
+          <img id="clothOverlay" alt="cloth" />
+        </div>
+        <button id="tryOnBtn">ابدأ التجربة (حتى 60 ثانية)</button>
+        <div class="progress"><div id="progressBar"></div></div>
+        <div class="actions">
+          <button id="saveBtn">حفظ الإطلالة</button>
+          <button id="shareBtn">مشاركة</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
