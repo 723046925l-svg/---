@@ -60,6 +60,11 @@ export default function LocaleLayout({
                 {isAr ? 'تسجيل الدخول' : 'Login'}
               </Link>
             </li>
+            <li>
+              <Link href={`/${locale}/dashboard`} style={{ color: 'white' }}>
+                {isAr ? 'لوحة التحكم' : 'Dashboard'}
+              </Link>
+            </li>
           </ul>
         </aside>
 

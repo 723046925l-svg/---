@@ -46,8 +46,17 @@ export default function LoginPage() {
   }
 
   return (
-    <section style={{ maxWidth: 420, margin: '0 auto', background: '#fff', border: '1px solid #e5e7eb', borderRadius: 12, padding: 24 }}>
-      <h1>تسجيل الدخول</h1>
+    <section
+      style={{
+        maxWidth: 420,
+        margin: '0 auto',
+        background: '#fff',
+        border: '1px solid #e5e7eb',
+        borderRadius: 12,
+        padding: 24,
+      }}
+    >
+      <h1 style={{ marginTop: 0 }}>تسجيل الدخول</h1>
       <form onSubmit={onSubmit} style={{ display: 'grid', gap: 12 }}>
         <input
           value={emailOrPhone}
@@ -64,7 +73,7 @@ export default function LoginPage() {
           required
           style={{ padding: 10, border: '1px solid #d1d5db', borderRadius: 8 }}
         />
-        {error ? <p style={{ color: '#b91c1c' }}>{error}</p> : null}
+        {error ? <p style={{ color: '#b91c1c', margin: 0 }}>{error}</p> : null}
         <button
           type='submit'
           disabled={loading}

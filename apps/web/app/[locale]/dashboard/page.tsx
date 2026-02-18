@@ -17,8 +17,8 @@ export default function DashboardPage() {
 
   return (
     <section style={{ background: '#fff', border: '1px solid #e5e7eb', borderRadius: 12, padding: 24 }}>
-      <h1>لوحة التحكم</h1>
-      <p>هذه صفحة محمية وتتطلب accessToken.</p>
+      <h1 style={{ marginTop: 0 }}>لوحة التحكم</h1>
+      <p style={{ color: '#4b5563', marginBottom: 0 }}>هذه صفحة محمية وتتطلب accessToken.</p>
     </section>
   );
 }
