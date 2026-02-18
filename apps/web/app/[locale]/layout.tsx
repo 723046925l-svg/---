@@ -29,9 +29,6 @@ export default function LocaleLayout({
           alignItems: 'center',
           justifyContent: 'space-between',
           padding: '0 20px',
-          position: 'sticky',
-          top: 0,
-          zIndex: 10,
         }}
       >
         <strong>{isAr ? 'نظام العيادة' : 'Clinic System'}</strong>
@@ -42,32 +39,25 @@ export default function LocaleLayout({
         </nav>
       </header>
 
-      <div style={{ display: 'grid', gridTemplateColumns: isAr ? '1fr 260px' : '260px 1fr' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: isAr ? '1fr 250px' : '250px 1fr' }}>
         <aside
           style={{
             background: '#0f766e',
             color: 'white',
             minHeight: 'calc(100vh - 64px)',
             padding: 20,
-            borderInlineStart: isAr ? '1px solid #115e59' : undefined,
-            borderInlineEnd: !isAr ? '1px solid #115e59' : undefined,
           }}
         >
           <h3 style={{ marginTop: 0 }}>{isAr ? 'القائمة' : 'Menu'}</h3>
           <ul style={{ listStyle: 'none', padding: 0, display: 'grid', gap: 10 }}>
             <li>
               <Link href={`/${locale}`} style={{ color: 'white' }}>
-                {isAr ? 'نظرة عامة' : 'Overview'}
+                {isAr ? 'الرئيسية' : 'Home'}
               </Link>
             </li>
             <li>
               <Link href={`/${locale}/login`} style={{ color: 'white' }}>
                 {isAr ? 'تسجيل الدخول' : 'Login'}
-              </Link>
-            </li>
-            <li>
-              <Link href={`/${locale}/dashboard`} style={{ color: 'white' }}>
-                {isAr ? 'لوحة التحكم' : 'Dashboard'}
               </Link>
             </li>
           </ul>
