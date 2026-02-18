@@ -1,0 +1,6 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{ "appID": "TEAMID.com.iraqhealth.app", "paths": ["/ar/*", "/en/*"] }]
+  }
+}
