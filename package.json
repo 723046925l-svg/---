@@ -1,0 +1,12 @@
+{
+  "name": "iraq-clinic-monorepo",
+  "private": true,
+  "packageManager": "pnpm@9.12.3",
+  "engines": {"node": ">=20"},
+  "scripts": {
+    "dev": "pnpm -r --parallel --filter ./apps/backend --filter ./apps/web dev",
+    "build": "pnpm -r build",
+    "test": "pnpm --filter backend test",
+    "lint": "pnpm -r lint"
+  }
+}

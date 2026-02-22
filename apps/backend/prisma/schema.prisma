@@ -1,0 +1,148 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role { SUPER_ADMIN CLINIC_ADMIN DOCTOR RECEPTIONIST PATIENT }
+enum AppointmentType { IN_CLINIC VIDEO }
+enum AppointmentStatus { PENDING CONFIRMED CANCELLED COMPLETED NO_SHOW }
+enum NotificationChannel { SMS PUSH WHATSAPP IN_APP }
+
+model User {
+  id                 String        @id @default(cuid())
+  phone              String?       @unique
+  email              String?       @unique
+  passwordHash       String?
+  role               Role          @default(PATIENT)
+  name               String
+  createdAt          DateTime      @default(now())
+  appointments       Appointment[] @relation("PatientAppointments")
+  doctorAppointments Appointment[] @relation("DoctorAppointments")
+  notifications      Notification[]
+  doctorProfile      Doctor?
+  refreshTokens      RefreshToken[]
+}
+
+model Clinic {
+  id           String        @id @default(cuid())
+  name         String
+  city         String
+  address      String
+  doctors      Doctor[]
+  appointments Appointment[]
+}
+
+model Specialty {
+  id      String   @id @default(cuid())
+  name    String
+  doctors Doctor[]
+}
+
+model Doctor {
+  id          String        @id @default(cuid())
+  userId      String        @unique
+  clinicId    String
+  specialtyId String
+  bio         String?
+  user        User          @relation(fields: [userId], references: [id])
+  clinic      Clinic        @relation(fields: [clinicId], references: [id])
+  specialty   Specialty     @relation(fields: [specialtyId], references: [id])
+  schedules   Schedule[]
+}
+
+model Schedule {
+  id        String @id @default(cuid())
+  doctorId  String
+  dayOfWeek Int
+  startTime String
+  endTime   String
+  doctor    Doctor @relation(fields: [doctorId], references: [id])
+}
+
+model Appointment {
+  id        String            @id @default(cuid())
+  clinicId  String
+  doctorId  String
+  patientId String
+  startsAt  DateTime
+  endsAt    DateTime
+  type      AppointmentType
+  status    AppointmentStatus @default(PENDING)
+  paid      Boolean           @default(false)
+
+  clinic       Clinic       @relation(fields: [clinicId], references: [id])
+  doctor       User         @relation("DoctorAppointments", fields: [doctorId], references: [id])
+  patient      User         @relation("PatientAppointments", fields: [patientId], references: [id])
+  payment      Payment?
+  videoSession VideoSession?
+
+  @@unique([doctorId, startsAt])
+}
+
+model Payment {
+  id            String      @id @default(cuid())
+  appointmentId String      @unique
+  provider      String
+  status        String
+  amount        Int
+  createdAt     DateTime    @default(now())
+  appointment   Appointment @relation(fields: [appointmentId], references: [id])
+}
+
+model Notification {
+  id        String              @id @default(cuid())
+  userId    String
+  titleAr   String
+  bodyAr    String
+  titleEn   String
+  bodyEn    String
+  channel   NotificationChannel
+  status    String              @default("QUEUED")
+  createdAt DateTime            @default(now())
+  user      User                @relation(fields: [userId], references: [id])
+}
+
+model VideoSession {
+  id            String       @id @default(cuid())
+  appointmentId String       @unique
+  channelName   String
+  token         String?
+  startedAt     DateTime?
+  endedAt       DateTime?
+  appointment   Appointment  @relation(fields: [appointmentId], references: [id])
+}
+
+model RefreshToken {
+  id          String   @id @default(cuid())
+  userId      String
+  token       String
+  uniqueToken String   @unique
+  user        User     @relation(fields: [userId], references: [id])
+  createdAt   DateTime @default(now())
+}
+
+model OtpCode {
+  id        String   @id @default(cuid())
+  target    String
+  code      String
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  actorId   String?
+  role      Role?
+  action    String
+  entity    String
+  entityId  String?
+  before    Json?
+  after     Json?
+  ip        String?
+  userAgent String?
+  createdAt DateTime @default(now())
+}
