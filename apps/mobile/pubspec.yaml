@@ -1,0 +1,13 @@
+name: clinic_mobile
+publish_to: none
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^14.2.0
+  dio: ^5.7.0
+  firebase_messaging: ^15.1.2
+  flutter_local_notifications: ^17.2.3
+flutter:
+  uses-material-design: true
