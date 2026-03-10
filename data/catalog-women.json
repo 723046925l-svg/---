@@ -1,0 +1,650 @@
+[
+  {
+    "id": "women-001",
+    "sku": "W-001",
+    "nameAr": "فستان سهرة 1",
+    "nameEn": "Dress 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 21000,
+    "image": "assets/products/women-001.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-002",
+    "sku": "W-002",
+    "nameAr": "فستان سهرة 2",
+    "nameEn": "Dress 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 40000,
+    "image": "assets/products/women-002.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-003",
+    "sku": "W-003",
+    "nameAr": "فستان سهرة 3",
+    "nameEn": "Dress 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 116000,
+    "image": "assets/products/women-003.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-004",
+    "sku": "W-004",
+    "nameAr": "فستان سهرة 4",
+    "nameEn": "Dress 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 87000,
+    "image": "assets/products/women-004.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-005",
+    "sku": "W-005",
+    "nameAr": "فستان سهرة 5",
+    "nameEn": "Dress 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 92000,
+    "image": "assets/products/women-005.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-006",
+    "sku": "W-006",
+    "nameAr": "فستان سهرة 6",
+    "nameEn": "Dress 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 40000,
+    "image": "assets/products/women-006.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-007",
+    "sku": "W-007",
+    "nameAr": "بلوزة يومية 1",
+    "nameEn": "Blouse 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 39000,
+    "image": "assets/products/women-007.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-008",
+    "sku": "W-008",
+    "nameAr": "بلوزة يومية 2",
+    "nameEn": "Blouse 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 19000,
+    "image": "assets/products/women-008.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-009",
+    "sku": "W-009",
+    "nameAr": "بلوزة يومية 3",
+    "nameEn": "Blouse 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 112000,
+    "image": "assets/products/women-009.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-010",
+    "sku": "W-010",
+    "nameAr": "بلوزة يومية 4",
+    "nameEn": "Blouse 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 65000,
+    "image": "assets/products/women-010.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-011",
+    "sku": "W-011",
+    "nameAr": "بلوزة يومية 5",
+    "nameEn": "Blouse 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 83000,
+    "image": "assets/products/women-011.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-012",
+    "sku": "W-012",
+    "nameAr": "بلوزة يومية 6",
+    "nameEn": "Blouse 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 84000,
+    "image": "assets/products/women-012.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-013",
+    "sku": "W-013",
+    "nameAr": "جاكيت أنيق 1",
+    "nameEn": "Jacket 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 87000,
+    "image": "assets/products/women-013.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-014",
+    "sku": "W-014",
+    "nameAr": "جاكيت أنيق 2",
+    "nameEn": "Jacket 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 116000,
+    "image": "assets/products/women-014.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-015",
+    "sku": "W-015",
+    "nameAr": "جاكيت أنيق 3",
+    "nameEn": "Jacket 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 95000,
+    "image": "assets/products/women-015.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-016",
+    "sku": "W-016",
+    "nameAr": "جاكيت أنيق 4",
+    "nameEn": "Jacket 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 92000,
+    "image": "assets/products/women-016.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-017",
+    "sku": "W-017",
+    "nameAr": "جاكيت أنيق 5",
+    "nameEn": "Jacket 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 37000,
+    "image": "assets/products/women-017.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-018",
+    "sku": "W-018",
+    "nameAr": "جاكيت أنيق 6",
+    "nameEn": "Jacket 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 65000,
+    "image": "assets/products/women-018.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-019",
+    "sku": "W-019",
+    "nameAr": "تنورة ميدي 1",
+    "nameEn": "Skirt 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 45000,
+    "image": "assets/products/women-019.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-020",
+    "sku": "W-020",
+    "nameAr": "تنورة ميدي 2",
+    "nameEn": "Skirt 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 69000,
+    "image": "assets/products/women-020.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-021",
+    "sku": "W-021",
+    "nameAr": "تنورة ميدي 3",
+    "nameEn": "Skirt 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 54000,
+    "image": "assets/products/women-021.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-022",
+    "sku": "W-022",
+    "nameAr": "تنورة ميدي 4",
+    "nameEn": "Skirt 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 101000,
+    "image": "assets/products/women-022.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-023",
+    "sku": "W-023",
+    "nameAr": "تنورة ميدي 5",
+    "nameEn": "Skirt 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 119000,
+    "image": "assets/products/women-023.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-024",
+    "sku": "W-024",
+    "nameAr": "تنورة ميدي 6",
+    "nameEn": "Skirt 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 92000,
+    "image": "assets/products/women-024.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-025",
+    "sku": "W-025",
+    "nameAr": "عباية عصرية 1",
+    "nameEn": "Abaya 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 82000,
+    "image": "assets/products/women-025.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-026",
+    "sku": "W-026",
+    "nameAr": "عباية عصرية 2",
+    "nameEn": "Abaya 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 114000,
+    "image": "assets/products/women-026.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-027",
+    "sku": "W-027",
+    "nameAr": "عباية عصرية 3",
+    "nameEn": "Abaya 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 89000,
+    "image": "assets/products/women-027.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-028",
+    "sku": "W-028",
+    "nameAr": "عباية عصرية 4",
+    "nameEn": "Abaya 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 76000,
+    "image": "assets/products/women-028.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-029",
+    "sku": "W-029",
+    "nameAr": "عباية عصرية 5",
+    "nameEn": "Abaya 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 56000,
+    "image": "assets/products/women-029.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-030",
+    "sku": "W-030",
+    "nameAr": "عباية عصرية 6",
+    "nameEn": "Abaya 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 111000,
+    "image": "assets/products/women-030.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-031",
+    "sku": "W-031",
+    "nameAr": "طقم رياضي 1",
+    "nameEn": "Sport Set 1",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 93000,
+    "image": "assets/products/women-031.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-032",
+    "sku": "W-032",
+    "nameAr": "طقم رياضي 2",
+    "nameEn": "Sport Set 2",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 98000,
+    "image": "assets/products/women-032.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-033",
+    "sku": "W-033",
+    "nameAr": "طقم رياضي 3",
+    "nameEn": "Sport Set 3",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 99000,
+    "image": "assets/products/women-033.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-034",
+    "sku": "W-034",
+    "nameAr": "طقم رياضي 4",
+    "nameEn": "Sport Set 4",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 51000,
+    "image": "assets/products/women-034.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-035",
+    "sku": "W-035",
+    "nameAr": "طقم رياضي 5",
+    "nameEn": "Sport Set 5",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 95000,
+    "image": "assets/products/women-035.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  },
+  {
+    "id": "women-036",
+    "sku": "W-036",
+    "nameAr": "طقم رياضي 6",
+    "nameEn": "Sport Set 6",
+    "category": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "priceIQD": 78000,
+    "image": "assets/products/women-036.svg",
+    "descriptionAr": "قطعة مناسبة للتجربة الافتراضية عالية الدقة.",
+    "descriptionEn": "Item ready for high-quality virtual try-on."
+  }
+]
